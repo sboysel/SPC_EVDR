@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "mcu")(type "KiCad")(uri "${KIPRJMOD}/submodules/kleeb/mcu.kicad_sym")(options "")(descr ""))
+  (lib (name "kbd")(type "KiCad")(uri "${KIPRJMOD}/submodules/kbd/kicad-symbols/kbd.kicad_sym")(options "")(descr ""))
+  (lib (name "SKRHAAE010")(type "KiCad")(uri "${KIPRJMOD}/submodules/mouser/SKRHAAE010.kicad_sym")(options "")(descr ""))
+  (lib (name "SKQUCAA010")(type "KiCad")(uri "${KIPRJMOD}/submodules/mouser/SKQUCAA010.kicad_sym")(options "")(descr ""))
+)
